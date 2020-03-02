@@ -4,8 +4,5 @@ The main idea behind this project is developing a simple app to improve my knowl
 
 # API used 
 
-https://api.alquran.cloud/v1/
-
-http://cdn.alquran.cloud/
-
-https://wall.alphacoders.com/api2.0/
+https://alquran.cloud/api
+https://wall.alphacoders.com/api.php
